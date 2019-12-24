@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title>hotel leela palce</title>
+		<h1 align="center">THE LEELA PALACE</h1>
+</head>
+<body>
+<h1>
+<table border="1">
+	<tr>
+	<td><img src="hotel-11.jfif"></td>
+	<td><img src="hotel-12.jfif"></td>
+	</tr>
+	<tr>
+	<th>1.AC: Available.<br>
+	2.TELIVISION: Available.<br>
+	3.Wi-Fi: Available.<br>
+	4.PRICE: 5000Rps.</th>
+	<th>1.AC: Not-Available.<br>
+	2.TELIVISION: Available.<br>
+	3.Wi-Fi: Not-Available.<br>
+	4.PRICE: 2000Rps.</td>
+	</tr>
+</h1>
+</table>
+</body>
+</html>
